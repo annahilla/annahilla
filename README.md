@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Angular and Frontend Development
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 You can reach me here: annahilla21@gmail.com
-- ⚡ Fun fact: I'm Vegan and I love animals and plants
+- ⚡ Fun fact: I'm vegan and I love animals and plants
 
 <!---
 annahilla/annahilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
