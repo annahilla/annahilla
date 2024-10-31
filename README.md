@@ -27,4 +27,6 @@
 
 <hr>
 
-<a href="mailto:annahilla21@gmail.com" target="_blank"><img src="./assets/contact-me-btn.png" alt="Contact Me Button" width="250" ></a>
+<p align='center'>
+  <a href="mailto:annahilla21@gmail.com" target="_blank"><img src="./assets/contact-me-btn.png" alt="Contact Me Button" width="200" ></a>
+</p>
