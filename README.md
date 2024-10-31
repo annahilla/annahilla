@@ -1,4 +1,4 @@
-![banner](./assets/banner.gif)
+![banner](./assets/banner.png)
 
 **Naturally Curious**: I have a passion for learning and exploring a wide range of interests, from cooking to web development.
 
