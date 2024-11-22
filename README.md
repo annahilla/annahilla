@@ -11,20 +11,21 @@ Hi! I'm Anna, a Frontend Web Developer based in Barcelona, currently enhancing m
 Here are some of the projects I’ve worked on:
 
 **Star Wars Ships Data App**: A React app that fetches data from the Star Wars API, listing ships and displaying detailed information for each ship. The app uses Redux for state management, React Router for routing and Tailwind for styling.
-<a target="_blank" href="https://github.com/annahilla/7-Star-Wars-Guide">View Repository</a> / _Currently working on it_.
+
+<a href="https://github.com/annahilla/7-Star-Wars-Guide">View Repository</a> / _Currently working on it_
 
 **Budget Calculator App**: A dynamic web app for calculating website budgets based on customization options like the number of pages and languages. It allows users to generate multiple budgets and save them in a list with detailed information. Built with React, Context, and styled with Tailwind.
-<a target="_blank" href="https://github.com/annahilla/6-Budget-App">View Repository</a> / <a target="_blank" href="https://web-budget-calculator.vercel.app">View Live Version</a>
+
+<a href="https://github.com/annahilla/6-Budget-App">View Repository</a> / <a href="https://web-budget-calculator.vercel.app">View Live Version</a>
 
 **Digital Onboarding**: A sleek and interactive React web application that showcases a series of onboarding cards. Users can smoothly navigate between the cards with dynamic animations, providing an engaging user experience, Perfect for onboarding processes or any multi-step user flow.
-<a target="_blank" href="https://github.com/annahilla/5-Digital-Onboarding">View Repository</a> / <a target="_blank" href="https://digital-onboarding.vercel.app">View Live Version</a>
+
+<a href="https://github.com/annahilla/5-Digital-Onboarding">View Repository</a> / <a href="https://digital-onboarding.vercel.app">View Live Version</a>
 
 <hr>
 
-<div align="center">  
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=annahilla&theme=graywhite&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=annahilla&theme=graywhite" alt="GitHub Streak" />
 </div>
 
 <hr>
@@ -50,6 +51,7 @@ I enjoy working with modern tools and frameworks to create responsive and engagi
   <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/Storybook-%23FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
   <img src="https://img.shields.io/badge/Firebase-orange.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Storybook" />
+  <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
 </p>
 
 <hr>
@@ -59,5 +61,5 @@ I enjoy working with modern tools and frameworks to create responsive and engagi
 I’m always open to collaborating on exciting projects or contributing to open-source initiatives. You can contact me via mail clicking down here.
 
 <p align="left">
-  <a href="mailto:annahilla21@gmail.com" target="_blank"><img src="./assets/contact-me-btn.png" alt="Contact Me Button" width="200" ></a>
+  <a href="mailto:annahilla21@gmail.com"><img src="./assets/contact-me-btn.png" alt="Contact Me Button" width="200"></a>
 </p>
