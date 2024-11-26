@@ -12,7 +12,7 @@ Here are some of the projects I’ve worked on:
 
 **Star Wars Ships Data App**: A React app that fetches data from the Star Wars API, listing ships and displaying detailed information for each ship. The app uses Redux for state management, React Router for routing and Tailwind for styling.
 
-<a href="https://github.com/annahilla/7-Star-Wars-Guide">View Repository</a> / _Currently working on it_
+<a href="https://github.com/annahilla/7-Star-Wars-Guide">View Repository</a> / <a href="https://star-wars-starship-explorer.vercel.app/">View Live Version</a>
 
 **Budget Calculator App**: A dynamic web app for calculating website budgets based on customization options like the number of pages and languages. It allows users to generate multiple budgets and save them in a list with detailed information. Built with React, Context, and styled with Tailwind.
 
