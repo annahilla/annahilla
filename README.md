@@ -2,13 +2,17 @@
 
 ### About Me
 
-Hi! I'm Anna, a Frontend Web Developer based in Barcelona, currently enhancing my **React** and **Next.js** skills at **IT Academy**. I thrive on learning and love diving into a wide range of interests — from cooking to web development. My goal is to build clean, user-friendly web applications and to collaborate with amazing teams on exciting projects.
+Hi! I'm Anna, a Frontend Web Developer based in Barcelona, currently enhancing my **React** and **Next.js** skills at **IT Academy**. I thrive on learning and love diving into a wide range of interests — from cooking to web development. My goal is to build clean, user-friendly web applications and to collaborate with amazing teams on exciting projects. I studied nursing at university so I love creating apps that promote health and well-being.
 
 <hr>
 
 ### My latest projects
 
 Here are the latest projects that I’ve worked on:
+
+**Planutri**: A full-stack Next.js applicacion to plan your weekly menu and generate a shopping list. It features a meal planner, shopping list, a form to create a public or private recipe and a recipes list with all the recipes. I used Typescript, TailwindCSS for styling, Context for state management, Firebase for authentication and MongoDB for the database.
+
+<a href="https://github.com/annahilla/planutri">View Repository</a> / <a href="https://planutri.vercel.app/">View Live Version</a>
 
 **WellPulse**: A comprehensive MERN stack application designed to track healthy habits. It features a calendar to manage habits, progress charts to visualize improvement, and an interactive map displaying locations where users can perform their habits. On the frontend, I used Typescript, Redux for efficient state management, React Router for seamless navigation, Firebase for secure authentication, and Tailwind CSS for responsive, modern styling. The backend is built with Node.js and Express, ensuring smooth and scalable functionality.
 
