@@ -10,6 +10,10 @@ Hi! I'm Anna, a Frontend Web Developer based in Barcelona, currently enhancing m
 
 Here are the latest projects that I’ve worked on:
 
+**Nissu**: Nissu is a fun and motivating habit streak tracker built with React Native and Expo. Complete daily habits, maintain your streaks, and help a little cat named Nissu build a tall cozy home for each habit – one floor at a time. I used TypeScript, Nativewind for styling, Context for state management and Appwrite for authentication and database.
+
+<a href="https://github.com/annahilla/nissu">View Repository</a>
+
 **Planutri**: A full-stack Next.js applicacion to plan your weekly menu and generate a shopping list. It features a meal planner, shopping list, a form to create a public or private recipe and a recipes list with all the recipes. I used Typescript, TailwindCSS for styling, Context for state management, Firebase for authentication and MongoDB for the database.
 
 <a href="https://github.com/annahilla/planutri">View Repository</a> / <a href="https://planutri.vercel.app/">View Live Version</a>
@@ -17,18 +21,6 @@ Here are the latest projects that I’ve worked on:
 **WellPulse**: A comprehensive MERN stack application designed to track healthy habits. It features a calendar to manage habits, progress charts to visualize improvement, and an interactive map displaying locations where users can perform their habits. On the frontend, I used Typescript, Redux for efficient state management, React Router for seamless navigation, Firebase for secure authentication, and Tailwind CSS for responsive, modern styling. The backend is built with Node.js and Express, ensuring smooth and scalable functionality.
 
 <a href="https://github.com/annahilla/wellpulse">View Frontend Repository</a> / <a href="https://github.com/annahilla/wellpulse-api">View Backend Repository</a> / <a href="https://wellpulse.vercel.app/">View Live Version</a>
-
-**Star Wars Ships Data App**: A React app that fetches data from the Star Wars API, listing ships and displaying detailed information for each ship. The app uses Typescript, Redux for state management, React Router for routing and Tailwind for styling.
-
-<a href="https://github.com/annahilla/7-Star-Wars-Guide">View Repository</a> / <a href="https://star-wars-starship-explorer.vercel.app/">View Live Version</a>
-
-**Budget Calculator App**: A dynamic web app for calculating website budgets based on customization options like the number of pages and languages. It allows users to generate multiple budgets and save them in a list with detailed information. Built with React, Context, and styled with Tailwind.
-
-<a href="https://github.com/annahilla/6-Budget-App">View Repository</a> / <a href="https://web-budget-calculator.vercel.app">View Live Version</a>
-
-**Digital Onboarding**: A sleek and interactive React web application that showcases a series of onboarding cards. Users can smoothly navigate between the cards with dynamic animations, providing an engaging user experience, Perfect for onboarding processes or any multi-step user flow.
-
-<a href="https://github.com/annahilla/5-Digital-Onboarding">View Repository</a> / <a href="https://digital-onboarding.vercel.app">View Live Version</a>
 
 <hr>
 
@@ -50,6 +42,8 @@ I enjoy working with modern tools and frameworks to create responsive and engagi
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -71,10 +65,8 @@ I enjoy working with modern tools and frameworks to create responsive and engagi
 
 ### What I'm currently learning
 
-- **Advanced React Concepts**: Deepening my understanding of React, focusing on advanced state management patterns like the Context API and Redux, and exploring performance optimization techniques.
-- **Next.js**: Enhancing my understanding of Next.js to build server-side rendered applications and improve SEO, performance, and scalability.
-- **Node.js** and **Express**: Strengthening my backend skills, creating RESTful APIs and learning how to build efficient, scalable server-side applications.
-- **MongoDB**: Diving into MongoDB to enhance my database skills, learning best practices for designing schemas, managing collections, and optimizing queries for performance.
+- **React Native & Expo**: Deepening my knowledge of mobile development to build performant cross-platform apps. Currently working on animations, navigation stacks, and integrating backend services like Appwrite.
+- **Vue.js**: Exploring the Vue ecosystem to broaden my frontend horizons and understand different approaches to component-based development.
 
 <hr>
 
