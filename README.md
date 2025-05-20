@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi! I'm Anna, a Frontend Web Developer based in Barcelona, currently enhancing my **React** and **Next.js** skills at **IT Academy**. I thrive on learning and love diving into a wide range of interests — from cooking to web development. My goal is to build clean, user-friendly web applications and to collaborate with amazing teams on exciting projects. I studied nursing at university so I love creating apps that promote health and well-being.
+Hi! I'm Anna, a Frontend Web Developer based in Barcelona. I thrive on learning and love diving into a wide range of interests — from cooking to web development. My goal is to build clean, user-friendly web applications and to collaborate with amazing teams on exciting projects. I studied nursing at university so I love creating apps that promote health and well-being.
 
 <hr>
 
@@ -12,7 +12,7 @@ Here are the latest projects that I’ve worked on:
 
 **Nissu**: Nissu is a fun and motivating habit streak tracker built with React Native and Expo. Complete daily habits, maintain your streaks, and help a little cat named Nissu build a tall cozy home for each habit – one floor at a time. I used TypeScript, Nativewind for styling, Context for state management and Appwrite for authentication and database.
 
-<a href="https://github.com/annahilla/nissu">View Repository</a>
+<a href="https://github.com/annahilla/nissu">View Repository</a> / <a href="https://github.com/annahilla/nissu-landing">View Landing Page Repository</a> / <a href="https://nissu.app">View Landing Page Live</a>
 
 **Planutri**: A full-stack Next.js applicacion to plan your weekly menu and generate a shopping list. It features a meal planner, shopping list, a form to create a public or private recipe and a recipes list with all the recipes. I used Typescript, TailwindCSS for styling, Context for state management, Firebase for authentication and MongoDB for the database.
 
@@ -44,7 +44,9 @@ I enjoy working with modern tools and frameworks to create responsive and engagi
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -58,7 +60,6 @@ I enjoy working with modern tools and frameworks to create responsive and engagi
   <img src="https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
 </p>
 
 <hr>
